@@ -90,3 +90,4 @@ plt.savefig("ozellik_onem.png",dpi=120)
 plt.close()
 
 
+
